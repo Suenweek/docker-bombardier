@@ -5,7 +5,7 @@ is a fast cross-platform HTTP benchmarking tool written in Go.
 
 ## Tags
 
-- [`v1.2.4`, `latest` (*Dockerfile*)](https://github.com/Suenweek/docker-bombardier/blob/master/Dockerfile)
+- [`v1.2.4`, `latest` (*Dockerfile*)](https://github.com/rnovatorov/docker-bombardier/blob/master/Dockerfile)
 
 ## Usage
 
